@@ -6,6 +6,7 @@ The views.py file works to import a file, decipher it as a json file and print t
 
 
 TO START:
+
 Go to the terminal or command prompt.
 
 CD to directory root.
